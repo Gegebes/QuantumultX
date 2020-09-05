@@ -1,0 +1,5 @@
+host, ns.itunes.apple.com, reject
+host, appldnld.apple.com, reject
+host, mesu.apple.com, reject
+host, xp.apple.com, reject
+host, gdmf.apple.com, reject
