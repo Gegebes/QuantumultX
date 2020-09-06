@@ -4,3 +4,29 @@ DOMAIN,cache.video.iqiyi.com,HKMTMedia
 # > bilibili
 DOMAIN,api.bilibili.com,HKMTMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
+
+# > Bilibili
+USER-AGENT,bili*,CMedia
+USER-AGENT,Bilibili*,CMedia
+HOST-SUFFIX,acg.tv,CMedia
+HOST-SUFFIX,acgvideo.com,CMedia
+HOST-SUFFIX,b23.tv,CMedia
+HOST-SUFFIX,biliapi.com,CMedia
+HOST-SUFFIX,biliapi.net,CMedia
+HOST-SUFFIX,bilibili.com,CMedia
+HOST-SUFFIX,biligame.com,CMedia
+HOST-SUFFIX,biligame.net,CMedia
+HOST-SUFFIX,bilivideo.com,CMedia
+HOST-SUFFIX,hdslb.com,CMedia
+HOST-SUFFIX,im9.com,CMedia
+HOST-SUFFIX,smtcdns.net,CMedia
+
+# > iQiyi
+USER-AGENT,QIYI*,CMedia
+USER-AGENT,iQiYi*,CMedia
+USER-AGENT,PPStream*,CMedia
+USER-AGENT,QYPlayer*,CMedia
+HOST-SUFFIX,iqiyi.com,CMedia
+HOST-SUFFIX,iqiyipic.com,CMedia
+HOST-SUFFIX,qy.net,CMedia
+HOST-SUFFIX,71.am,CMedia
