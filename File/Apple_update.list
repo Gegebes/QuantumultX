@@ -3,3 +3,6 @@ host, appldnld.apple.com, reject
 host, mesu.apple.com, reject
 host, xp.apple.com, reject
 host, gdmf.apple.com, reject
+host,ocsp.int-x3.letsencrypt.org, reject
+host,ocsp.apple.com, reject
+host,world-gen.g.aaplimg.com, reject
