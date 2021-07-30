@@ -1,8 +1,8 @@
-HOST,xp.apple.com	
-HOST,ns.itunes.apple.com	
-HOST,mesu.apple.com	
-HOST,gg.apple.com	
-HOST,ocsp.apple.com
-HOST,gdmf.apple.com
-HOST,ocsp.int-x3.letsencrypt.org
-HOST,world-gen.g.aaplimg.com
+HOST,xp.apple.com,Apple_update
+HOST,ns.itunes.apple.com,Apple_update
+HOST,mesu.apple.com.Apple_update
+HOST,gg.apple.com,Apple_update
+HOST,ocsp.apple.com,Apple_update
+HOST,gdmf.apple.com,Apple_update
+HOST,ocsp.int-x3.letsencrypt.org,Apple_update
+HOST,world-gen.g.aaplimg.com,Apple_update
